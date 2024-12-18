@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|d:\\work\\menuui\\menu-m2\\oq2uisurvey-v2\\assets\\myscripts\\cameramovemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\cameramovemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|d:\\work\\menuui\\menu-m2\\oq2uisurvey-v2\\assets\\myscripts\\task1top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\task1top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|d:\\work\\menuui\\menu-m2\\oq2uisurvey-v2\\assets\\myscripts\\camerarotatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\camerarotatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|d:\\work\\menuui\\menu-m2\\oq2uisurvey-v2\\assets\\myscripts\\mc2manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303B2BA6-684F-3BBD-4D8C-9A141C69EC80}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\mc2manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraMoveManager.cs",
+              "DocumentMoniker": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\CameraMoveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\CameraMoveManager.cs",
+              "ToolTip": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\CameraMoveManager.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\CameraMoveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:57:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraRotateManager.cs",
+              "DocumentMoniker": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\CameraRotateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\CameraRotateManager.cs",
+              "ToolTip": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\CameraRotateManager.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\CameraRotateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:54:28.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MC2Manager.cs",
+              "DocumentMoniker": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\MC2Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\MC2Manager.cs",
+              "ToolTip": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\MC2Manager.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\MC2Manager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:53:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1Top.cs",
+              "DocumentMoniker": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\Task1Top.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\Task1Top.cs",
+              "ToolTip": "D:\\work\\MenuUI\\Menu-M2\\OQ2UISurvey-v2\\Assets\\MyScripts\\Task1Top.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\Task1Top.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:51:46.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
