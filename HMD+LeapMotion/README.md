@@ -1,6 +1,10 @@
 # VirtualMenu(HMD+LeapMotion)
 ## 概要
-本ディレクトリには、以下3つのプロジェクトが含まれます。
+本ディレクトリには、以下3つのプロジェクトが含まれます。  
+<img height="160" alt="directionPhoto4" src="https://github.com/user-attachments/assets/fcfe2751-c0a2-4987-b530-f38eed59bd2b">
+<img height="160" alt="gesturePhoto" src="https://github.com/user-attachments/assets/6c1c2208-d22d-4a9c-a091-0289c49c469d">
+<img height="160" alt="lazerPhoto" src="https://github.com/user-attachments/assets/8c1c0af8-603d-4041-b0ba-4a4daa3ccf03">
+
 - DirectionMenu
 - GestureMenu
 - LaserMenu
