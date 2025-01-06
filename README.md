@@ -1,6 +1,8 @@
 # VirtualMenu(HMD+LeapMotion)
 
 ## 前書き
+<img height="210" alt="directionPhoto1" src="https://github.com/user-attachments/assets/895c3370-8565-45d6-9a8b-6d0cccf834eb" />
+<img height="210" alt="directionPhoto3 - コピー" src="https://github.com/user-attachments/assets/f89bea69-ece2-44a0-9f86-e524a22cca6a" />
 
 本リポジトリはXR環境でのGUIメニュー「DirectionMenu(OneHand4Menu)」  
 および他メニューとの比較を目的として作成されたものです。  
