@@ -12,7 +12,11 @@
 - 利用デバイス：Oculus Quest2
 
 ## 操作方法
-Unityプロジェクト内のオブジェクト「HUD」内には以下5種のGUIメニューが存在します。
+Unityプロジェクト内のオブジェクト「HUD」内には以下5種のGUIメニューが存在します。  
+<img width="200" alt="directionPhoto0" src="https://github.com/user-attachments/assets/41fa816d-c315-40be-9435-265b4eb30a8d" />
+<img width="200" alt="comparison1" src="https://github.com/user-attachments/assets/4290207b-b5fe-4261-9dda-08fd6c6a5e77" />
+<img width="200" alt="comparison2" src="https://github.com/user-attachments/assets/e611e3e8-bc54-4848-a6e7-28c7d41a87a7" />
+<img width="200" alt="comparison3" src="https://github.com/user-attachments/assets/aa0c3fdd-887e-4c81-aca5-0943a0ed74ad" />
 - Direction
 - MenuCanvas-VLine
 - MenuCanvas-BVLine
@@ -45,11 +49,15 @@ Scriptディレクトリ内の「CameraMoveManager.cs」から入力を読み取
 内容については以下の通りです。
 
 ### タスク1:オブジェクト認識
-指定されたオブジェクトがXR空間内にいくつ存在するか探すタスクです。  
+指定されたオブジェクトがXR空間内にいくつ存在するか探すタスクです。 
+<img width="600" alt="taskPhoto1" src="https://github.com/user-attachments/assets/db2c8a4f-080b-41a2-9604-a4a73a22511b" />  
+
 視点は一定時間回転し、初期位置に戻った際に回答を行います。  
 検証時にはメニュー操作も同時に行うように実装されています。  
 
 ### タスク2:突発的な操作
 複数ディスプレイの表示が変化した際に表示に合ったボタンを押すタスクです。  
+<img width="600" alt="taskPhoto2" src="https://github.com/user-attachments/assets/3a6ffc33-fcda-4a62-ae93-88d166e10152" />  
+
 ディスプレイに映し出された色とボタンの色が対応しています。  
 タスク1同様、検証時にはメニュー操作も同時に行うように実装されています。  
